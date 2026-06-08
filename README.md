@@ -75,6 +75,17 @@ O **WS Agenda Online** é um sistema de gerenciamento de atendimentos para a emp
 | status | text | Agendado / Concluído / Cancelado |
 | observacoes | text | Observações opcionais |
 
+### Tabela `clientes`
+
+| Campo      | Tipo      | Descrição           |
+| ---------- | --------- | ------------------- |
+| id         | uuid      | Chave primária      |
+| nome       | text      | Nome do cliente     |
+| telefone   | text      | Telefone de contato |
+| endereco   | text      | Endereço do cliente |
+| created_at | timestamp | Data de criação     |
+
+
 ### View `dashboard_indicadores`
 View SQL no Supabase que calcula os totais exibidos no dashboard.
 
