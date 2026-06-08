@@ -2,7 +2,7 @@
 
 # 📅 WS Agenda Online
 
-Sistema web de agendamento de atendimentos desenvolvido para a disciplina de **Programação Web** — Trabalho da 3ª Nota.
+Sistema web de agendamento de atendimentos desenvolvido para a disciplina de **Programação Web**.
 
 ---
 
