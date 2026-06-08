@@ -200,8 +200,10 @@ O sistema estará disponível em `http://localhost:5173`
 
 ## 👨‍💻 Integrantes da Equipe
 
-|Joao Pedro Lima Barbosa | 
-|Davi Soares  | 
+| Nome | GitHub |
+|---|---|
+| Davi Silva Soares | [@dvsxx11](https://github.com/dvsxx11) |
+| João Pedro Lima Barbosa | [@JoaoPedroLimaBarbosa](https://github.com/JoaoPedroLimaBarbosa) |
 
 ---
 
