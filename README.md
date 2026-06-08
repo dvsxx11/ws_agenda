@@ -204,9 +204,7 @@ O sistema estará disponível em `http://localhost:5173`
 
 ## 👨‍💻 Integrantes da Equipe
 
-| Nome 
-|---|---|
-|Joao Pedro Lima Barbosa  | 
+|Joao Pedro Lima Barbosa | 
 |Davi Soares  | 
 
 
@@ -225,7 +223,5 @@ O sistema estará disponível em `http://localhost:5173`
 | DELETE | `/atendimentos/:id` | Remove atendimento |
 | GET | `/responsaveis` | Lista todos os responsáveis |
 
----
 
-## 📄 Licença
 
