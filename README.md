@@ -212,6 +212,10 @@ O sistema estará disponível em `http://localhost:5173`
 
 <img width="2101" height="1797" alt="Imagem 08-06-2026 às 02 23 (1)" src="https://github.com/user-attachments/assets/4d76a816-87f0-4f5b-9622-ecb520e8ec8e" />
 
+### 🗄️TABELAS USADAS
+
+<img width="1280" height="920" alt="image" src="https://github.com/user-attachments/assets/f5cc0849-f6e0-429d-babb-f199da70d469" />
+
 ---
 
 ## 👨‍💻 Integrantes da Equipe
