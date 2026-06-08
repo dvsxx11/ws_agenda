@@ -4,8 +4,7 @@
       <RouterLink class="navbar-brand fw-bold" to="/">
         🏠 WS Agenda Online
       </RouterLink>
-
-```
+      
   <button
     class="navbar-toggler"
     type="button"
@@ -65,7 +64,6 @@
     </div>
   </div>
 </div>
-```
 
   </nav>
 </template>
